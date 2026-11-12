@@ -4,4 +4,4 @@ Xəlil Bağırovun şəxsi saytı: rəqəmsal marketinq xidmətləri, kurslar, d
 
 Statik HTML/CSS/JS saytdır, build tələb etmir. Kök qovluq birbaşa hostinqə (Vercel, Netlify, GitHub Pages) qoyula bilər.
 
-> Qeyd: portfolio, rəylər, brend adları və rəqəmlər hələ nümunə məlumatdır. Sayt canlıya çıxmazdan əvvəl real məlumatla əvəz olunmalıdır.
+> Portfolio real layihələrdən ibarətdir. Uydurma rəylər, brendlər və keyslər çıxarılıb.
